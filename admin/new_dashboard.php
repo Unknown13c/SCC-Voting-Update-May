@@ -65,7 +65,7 @@
                   <div class="dropdown-content">
                     <a href="departments/bsit.php?page=bsitDept">BSIT</a>
                     <a href="departments/bsed.php?page=bsedDept">BSED</a>
-                    <a href="departments/beed.php?page=beedDept">BeED</a>
+                    <a href="departments/beed.php?page=beedDept">BEED</a>
                     <a href="departments/bshm.php?page=bshmDept">BSHM</a>
                     <a href="departments/bstm.php?page=bstmDept">BSTM</a>
                     <a href="departments/bsba.php?page=bsbaDept">BSBA</a>                    

@@ -19,7 +19,7 @@
                   </h4>
                   <ul class="nav nav-pills">
                   <li class="nav-item">
-                    <a class="nav-link active" style="font-weight:bold;" aria-current="page" href="live_result.php">President </a>
+                    <a class="nav-link active" style="font-weight:bold; color:red;" aria-current="page" href="live_result.php">President </a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" style="font-weight:bold;" href="vp.php">Vice-President</a>
@@ -34,13 +34,16 @@
                          <a class="nav-link" style="font-weight:bold;" href="auditor.php">Auditor</a>
                     </li>
                     <li class="nav-item">
-                         <a class="nav-link" style="font-weight:bold;" href="massmedia.php">Mass Media</a>
+                         <a class="nav-link" style="font-weight:bold;" href="massmedia.php">Mass Media Officer</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                          <a class="nav-link" style="font-weight:bold;" href="peaceOfficer.php">Peace Officer</a>
                     </li>
                     <li class="nav-item">
                          <a class="nav-link" style="font-weight:bold;" href="activitycoor.php">Activity Coordinator</a>
+                    </li> -->
+                     <li class="nav-item">
+                         <a class="nav-link" style="font-weight:bold;" href="Senator.php">Senator</a>
                     </li>
 
                 </ul>

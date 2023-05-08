@@ -22,7 +22,7 @@
                     <a class="nav-link active" style="font-weight:bold;" aria-current="page" href="live_result.php">President </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" style="font-weight:bold;" href="vp.php">Vice-President</a>
+                    <a class="nav-link" style="font-weight:bold;color:red;" href="vp.php">Vice-President</a>
                 </li>
                     <li class="nav-item">
                          <a class="nav-link" style="font-weight:bold;" href="secretary.php">Secretary</a>

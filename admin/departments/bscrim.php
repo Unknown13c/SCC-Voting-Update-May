@@ -7,8 +7,8 @@
 <div id="page-wrapper">
     <div class="row">
       <?php
-          $count1 =  $conn->query("SELECT COUNT(*) as total FROM `voters` WHERE `status` = 'Voted' and department='BSCRIM' and status1=''")->fetch_array();
-          $count2 =  $conn->query("SELECT COUNT(*) as total FROM `voters` WHERE `status` = 'Unvoted' and department='BSCRIM' and status1=''")->fetch_array();
+          $count1 =  $conn->query("SELECT COUNT(*) as total FROM `voters` WHERE `status` = 'Voted' and department='BS Crim' and status1=''")->fetch_array();
+          $count2 =  $conn->query("SELECT COUNT(*) as total FROM `voters` WHERE `status` = 'Unvoted' and department='BS Crim' and status1=''")->fetch_array();
 
 
       ?> <br><br>
@@ -55,7 +55,7 @@
                                 <?php 
                                     require 'dbcon.php';
                                     $bool = false;
-                                    $query = $conn->query("SELECT * FROM voters WHERE department='BSCRIM' and status='voted' and status1=''");
+                                    $query = $conn->query("SELECT * FROM voters WHERE department='BS Crim' and status='voted' and status1=''");
                                     while($row = $query->fetch_array()){
                                     $voters_id=$row['voters_id'];
                                     ?>

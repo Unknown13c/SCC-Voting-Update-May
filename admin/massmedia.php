@@ -35,7 +35,7 @@
                          <a class="nav-link" style="font-weight:bold;" href="auditor.php">Auditor</a>
                     </li>
                     <li class="nav-item">
-                         <a class="nav-link" style="font-weight:bold;" href="massmedia.php">Mass Media Officer</a>
+                         <a class="nav-link" style="font-weight:bold; color:red;" href="massmedia.php">Mass Media Officer</a>
                     </li>
                     <!-- <li class="nav-item">
                          <a class="nav-link" style="font-weight:bold;" href="peaceOfficer.php">Peace Officer</a>

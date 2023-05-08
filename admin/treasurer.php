@@ -29,7 +29,7 @@
                          <a class="nav-link" style="font-weight:bold;" href="secretary.php">Secretary</a>
                     </li>
                     <li class="nav-item">
-                         <a class="nav-link" style="font-weight:bold;" href="treasurer.php">Treasurer</a>
+                         <a class="nav-link" style="font-weight:bold;color:red;" href="treasurer.php">Treasurer</a>
                     </li>
                     <li class="nav-item">
                          <a class="nav-link" style="font-weight:bold;" href="auditor.php">Auditor</a>

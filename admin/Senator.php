@@ -42,7 +42,7 @@
                          <a class="nav-link" style="font-weight:bold;" href="activitycoor.php">Activity Coordinator</a>
                     </li> -->
                     <li class="nav-item">
-                         <a class="nav-link" style="font-weight:bold;" href="Senator.php">Senator</a>
+                         <a class="nav-link" style="font-weight:bold; color:red;" href="Senator.php">Senator</a>
                     </li>
 
                 </ul>

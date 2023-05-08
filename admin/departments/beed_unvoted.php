@@ -17,7 +17,7 @@
                     <h4 class="modal-title" id="myModalLabel">         
                     <div class="panel panel-default">
                       <div class="panel-heading"><i class = "fa fa-users"></i>
-                        BeED Voters
+                        BEED Voters
                       </div>    
                     </div>
                   </h4>
